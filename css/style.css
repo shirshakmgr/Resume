@@ -479,7 +479,7 @@ footer{
     section.skills .content{
         display: block;
     }
-    section.skills .content{
+    section.skills .content .left{
         margin-bottom: 6rem;
     }
 }
